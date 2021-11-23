@@ -7,6 +7,8 @@
 
 A Simon says game for the KIM-1
 
+![ss][1]
+
 Try to memorize KIM's random tone/light Pattern - Bonus Points (Lifes) are given for reaching Milestones.
 An interactive Ggame for a 'naked' KIM-1
 
@@ -21,3 +23,5 @@ When the number disappears the KIM awaits your response. If you hit the same key
 The right digit wil increment.
 
 and so on.... read the manual ;)
+
+ [1]: https://github.com/netzherpes/MatchThis-for-KIM-1/blob/main/MatchThis.JPG?raw=true
