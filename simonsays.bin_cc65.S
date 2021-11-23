@@ -48,7 +48,7 @@ PLAY2:   lda     $dc
 TEST1:   lda     #$00
          sta     $d6
 TEST2:   lda     #$01
-         sta     $d6
+         sta     $dc
 KEYIN:   lda     #$00
          sta     DDR
          lda     Timer1
