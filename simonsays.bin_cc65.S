@@ -1,5 +1,13 @@
 ; Target assembler: cc65 v2.18.0 [--target none -C simonsays.bin_cc65.cfg]
-; 6502bench SourceGen v1.8.0-beta1
+;***************************************
+;* MatchThis-for-KIM-1                 *
+;*                                     *
+;*     by Gino F. Silvestri            *
+;*     Engeneering Division            *
+;*     Loral Electronic Systems        *
+;*     999 Central Park Avenue         *
+;*     Yonkers, NY 10704               *
+;***************************************
          .setcpu "6502"
 PA0write =       $1700
 PA0open  =       $1701
