@@ -1,9 +1,9 @@
 # MatchThis-for-KIM-1
- >by Gino F. Silvestri
- >Engeneering Division
- >Loral Electronic Systems
- >999 Central Park Avenue
- >Yonkers, NY 10704
+ >by Gino F. Silvestri <br>
+ >Engeneering Division <br>
+ >Loral Electronic Systems <br>
+ >999 Central Park Avenue <br>
+ >Yonkers, NY 10704 <br>
 
 A Simon says game for the KIM-1
 
