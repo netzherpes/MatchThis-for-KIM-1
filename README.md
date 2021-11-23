@@ -1,18 +1,14 @@
 # MatchThis-for-KIM-1
-by Gino F. Silvestri
-Engeneering Division
-Loral Electronic Systems
-999 Central Park Avenue
-Yonkers, NY 10704
-
+ >>by Gino F. Silvestri
+ >>Engeneering Division
+ >>Loral Electronic Systems
+ >>999 Central Park Avenue
+ >>Yonkers, NY 10704
 
 A Simon says game for the KIM-1
 
-
-
 Try to memorize KIM's random tone/light Pattern - Bonus Points (Lifes) are given for reaching Milestones.
 An interactive Ggame for a 'naked' KIM-1
-
 
 This Game requires a speaker / amp connectiion to the KIMs application connector as shown on page 57 in the KIm-1 User's Manual.
 
