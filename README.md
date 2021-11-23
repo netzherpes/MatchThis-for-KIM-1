@@ -24,4 +24,4 @@ The right digit wil increment.
 
 and so on.... read the manual ;)
 
- [1]: https://github.com/netzherpes/MatchThis-for-KIM-1/blob/main/MatchThis.JPG?raw=true
+ [1]: https://github.com/netzherpes/MatchThis-for-KIM-1/blob/main/MatchThis_sm.JPG?raw=true
